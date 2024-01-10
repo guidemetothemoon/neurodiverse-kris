@@ -1,0 +1,12 @@
+baseURL = "https://neurodiverse.kristhecodingunicorn.com"
+languageCode = "en-us"
+paginate = 5
+title = "Neurodiverse Kris"
+
+[params.sidebar]
+  subtitle = "Blog about mental health and everyday life of a neurodiverse techie."
+  emoji = "😺"
+  avatar.src = "img/avatar.jpg"
+
+[[module.imports]]
+path = "github.com/CaiJimmy/hugo-theme-stack/v3"
