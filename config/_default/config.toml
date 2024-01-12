@@ -2,6 +2,7 @@ baseURL = "https://neurodiverse.kristhecodingunicorn.com"
 languageCode = "en-us"
 paginate = 5
 title = "Neurodiverse Kris"
+mainSections = "post"
 
 [params.sidebar]
   subtitle = "Blog about mental health and everyday life of a neurodiverse techie."
@@ -16,6 +17,7 @@ title = "Neurodiverse Kris"
   since = 2024
 
 [menus]
+
 [[menu.social]]
 identifier = "email"
 name = "Get in touch 💫"
