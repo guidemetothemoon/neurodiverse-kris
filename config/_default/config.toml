@@ -15,6 +15,14 @@ title = "Neurodiverse Kris"
 [params.footer]
   since = 2024
 
+[menus]
+[[menu.social]]
+identifier = "email"
+name = "Get in touch 💫"
+url = "mailto:neurodiverse.kris@gmail.com"
+  [menu.social.params]
+  icon = "send"
+
 [widgets]
 [[widget.homepage]]
   type = "archives"
